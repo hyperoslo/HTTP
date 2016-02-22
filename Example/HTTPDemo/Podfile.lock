@@ -1,0 +1,14 @@
+PODS:
+  - HTTP (0.1.0)
+
+DEPENDENCIES:
+  - HTTP (from `../../`)
+
+EXTERNAL SOURCES:
+  HTTP:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  HTTP: e1453a844fe99c24c59e1aba5277ae1e8eef953f
+
+COCOAPODS: 0.39.0
